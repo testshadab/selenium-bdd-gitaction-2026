@@ -181,7 +181,7 @@ allure open target/allure-reports
 
 - Generates Allure results
 
-#### Workflow file: .github/workflows/*.yml
+### Workflow file: .github/workflows/*.yml
 
 ### Reports
 
