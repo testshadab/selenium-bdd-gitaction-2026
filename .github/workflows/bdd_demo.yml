@@ -2,7 +2,7 @@ name: Selenium BDD Test Suite
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs every hour
+    - cron: "0 3 * * 1" #Monday - at 8:30 AM IST
   workflow_dispatch:
     inputs:
       Environment:
